@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"a331927538d6fe76","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/홈.md","x":-600,"y":-500,"width":400,"height":285,"color":"2"},
+		{"id":"70c872359d41eab6","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/로그인.md","x":-40,"y":-450,"width":400,"height":100,"color":"3"},
+		{"id":"9e2fbbd7c4654f62","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/회원가입.md","x":-40,"y":-240,"width":400,"height":100,"color":"3"},
+		{"id":"3f7d9c92faea90ab","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/매장 선택.md","x":560,"y":-500,"width":400,"height":380,"color":"4"},
+		{"id":"699ab8ab15c64d3e","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/매장/매장 홈.md","x":1044,"y":-310,"width":400,"height":190,"color":"5"},
+		{"id":"3930a919291330fd","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/매장/매출현황.md","x":440,"y":160,"width":400,"height":400,"color":"5"},
+		{"id":"e7962d47ab2b5758","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/대기현황.md","x":1044,"y":160,"width":400,"height":400,"color":"5"},
+		{"id":"ed83a50995564b4f","type":"file","file":"(프로젝트) PayPos/페이지 순서 - 설명/매장/주방.md","x":1640,"y":160,"width":400,"height":400,"color":"5"},
+		{"id":"3bbedbd4a6c40d68","type":"file","file":"(프로젝트) PayPos/완료한 페이지.md","x":-640,"y":0,"width":1000,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"3f98a910b0ed9ce9","fromNode":"a331927538d6fe76","fromSide":"right","toNode":"70c872359d41eab6","toSide":"left"},
+		{"id":"e3304a1a3d960e93","fromNode":"70c872359d41eab6","fromSide":"bottom","toNode":"9e2fbbd7c4654f62","toSide":"top"},
+		{"id":"716ca4bc5edda0e6","fromNode":"70c872359d41eab6","fromSide":"right","toNode":"3f7d9c92faea90ab","toSide":"left"},
+		{"id":"16373cb55b830da6","fromNode":"3f7d9c92faea90ab","fromSide":"right","toNode":"699ab8ab15c64d3e","toSide":"left"},
+		{"id":"bc1d92c2decf53ff","fromNode":"699ab8ab15c64d3e","fromSide":"bottom","toNode":"e7962d47ab2b5758","toSide":"top"},
+		{"id":"2bd7fa67d07f0df3","fromNode":"699ab8ab15c64d3e","fromSide":"bottom","toNode":"ed83a50995564b4f","toSide":"top"},
+		{"id":"1d4a9ccf5cd3104a","fromNode":"699ab8ab15c64d3e","fromSide":"bottom","toNode":"3930a919291330fd","toSide":"top"}
+	]
+}
