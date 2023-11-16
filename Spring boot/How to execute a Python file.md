@@ -51,7 +51,7 @@ export OPENAI_API_KEY='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'
 ![[Pasted image 20231116174708.png]]
 
 ### 다시 프로젝트
-이 예제 프로젝트를 진행함으로써 다른 프로젝트 진행할 때 openAI 적용하여 컨텐츠가 조금 더 윤택있게 하고 싶었다. 만약 openAI가 없었다면 개발자가 구현해야 하는 기능이 매우 동적적인 기능이라면 힘들 수 있겠다 싶었다.
+이 예제 프로젝트를 진행함으로써 다른 프로젝트 진행할 때 openAI 적용하여 컨텐츠를 조금 더 윤택있게 만들 수 있다. 만약 개발자가 구현해야 하는 기능이 매우 동적적인 기능이라면 openAI를 이용하는 것이 편리할 수 있겠다고 생각했다.
 
 ```java title:Springboot
 
