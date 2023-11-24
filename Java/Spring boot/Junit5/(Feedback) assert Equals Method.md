@@ -1,3 +1,5 @@
+#개발일지 #SpringBoot #Java
+
 내가 작성한 코드는 이러하다.
 ```java
 MvcResult result = mvc.perform(get("/api/member/"))
