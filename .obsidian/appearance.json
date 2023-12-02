@@ -2,7 +2,7 @@
   "accentColor": "#5973f3",
   "theme": "system",
   "cssTheme": "",
-  "textFontFamily": "",
-  "interfaceFontFamily": "S-Core Dream 4",
-  "baseFontSize": 13
+  "textFontFamily": "나눔고딕OTF",
+  "interfaceFontFamily": "나눔고딕OTF",
+  "baseFontSize": 16
 }

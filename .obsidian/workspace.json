@@ -4,16 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "bfbdda468f803c39",
+        "id": "6df54fb55d6ae05e",
         "type": "tabs",
         "children": [
           {
-            "id": "057bb5232506e308",
+            "id": "c51e40bdbae0c7bc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Java/Spring boot/image/Pasted image 20231120172516.png"
+              }
+            }
+          },
+          {
+            "id": "956ce4b5c78442fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Java/Spring boot/image/Pasted image 20231120172516.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8c5841ad3bdf2d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a383cc32dca49d4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/BackJoon/10951 A+B - 4.md",
+                "file": "Java/Spring boot/I think I need to use a domain directory structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/BackJoon/10951 A+B - 4.md",
+                "file": "Java/Spring boot/image/Pasted image 20231120172516.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/BackJoon/10951 A+B - 4.md",
+                "file": "Java/Spring boot/image/Pasted image 20231120172516.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/BackJoon/10951 A+B - 4.md"
+                "file": "Java/Spring boot/image/Pasted image 20231120172516.png"
               }
             }
           },
@@ -159,25 +186,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "057bb5232506e308",
+  "active": "e224d863fe1e9045",
   "lastOpenFiles": [
+    "Java/Spring boot/image/Pasted image 20231120172739.png",
+    "Java/Spring boot/image/Pasted image 20231120172516.png",
+    "Java/Spring boot/Controller와 Service 계층 분리 (with Mapstruct).md",
+    "Java/Spring boot/MapStruct 심화편 2.md",
+    "Java/Spring boot/I think I need to use a domain directory structure.md",
+    "Home.md",
+    "Java/Spring boot/Junit5/(Feedback) How to test a controller.md",
+    "Java/Spring boot/Junit5/(Feedback) assert Equals Method.md",
+    "Artificial Intelligence/Current Topics of Information Technology/1155 assignment_1.md",
+    "React Native/리팩토링 기록.md",
     "Java/OutputStream과 InputStream.md",
     "Java/ForEach or Stream.md",
     "Java/Spring boot/to execute a Python file.md",
     "Java/Spring boot/Security + JWT Note.md",
-    "Java/Spring boot/I think I need to use a domain directory structure.md",
-    "Java/Spring boot/Junit5/(Feedback) assert Equals Method.md",
     "Algorithm/BackJoon/10951 A+B - 4.md",
     "Algorithm/BackJoon",
     "Diary/2023-10-08.md",
     "Diary/2023-10-26.md",
-    "React Native/리팩토링 기록.md",
     "Algorithm",
     "Java/Untitled.md",
-    "Home.md",
     "Java/Spring boot/Junit5/to compare with GET json.md",
-    "Pasted image 20231120172739.png",
-    "Pasted image 20231120172516.png",
     "Java/Spring boot/Junit5",
     "Java/Spring boot/image/Pasted image 20231118142351.png",
     "Java",
@@ -190,7 +221,6 @@
     "Pasted image 20231118144624.png",
     "Java/Spring boot/image",
     "Spring boot/Untitled 1.md",
-    "Artificial Intelligence/Current Topics of Information Technology/1155 assignment_1.md",
     "Spring boot/How to execute a Python file?.md",
     "Artificial Intelligence/Current Topics of Information Technology",
     "Artificial Intelligence",
@@ -203,9 +233,6 @@
     "Diary/image",
     "(프로젝트) PayPos/페이지 순서 - 설명/대기현황.md",
     "(프로젝트) PayPos/페이지 순서 - 설명/매장",
-    "(프로젝트) PayPos/페이지 순서 - 설명/매장 선택.md",
-    "(프로젝트) PayPos/페이지 순서 - 설명/회원가입.md",
-    "(프로젝트) PayPos/페이지 순서 - 설명/로그인.md",
-    "(프로젝트) PayPos/페이지 순서 - 설명/홈.md"
+    "(프로젝트) PayPos/페이지 순서 - 설명/매장 선택.md"
   ]
 }
