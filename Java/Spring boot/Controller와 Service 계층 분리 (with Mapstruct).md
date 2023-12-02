@@ -1,12 +1,6 @@
 #개발일지 #SpringBoot 
 
-## Background 
-
-Mapstruct는 Java 객체 간의 Mapping을 자동화하는 라이브러리입니다. DTO와 Entity class 등과 같이 비슷한 구조를 가진 객체 간의 Mapping을 단순화하고 효율적으로 처리할 수 있도록 지원합니다.
-이러한 라이브러리를 이용해 다양한 방법을 탐구하고 기록하고자 합니다.
-
-## Multiple Parameter
-### 과정
+## Background
 
 Controller의 Update 메소드에서 이런 코드가 있었습니다.
 
@@ -20,7 +14,13 @@ return memberMapper.MEMBER_GET(
 
 Controller 계층에서 DTO 받고 Mapper를 통해 Entity 변환 후 Service 계층으로 넘겨줘야 한다고 배웠습니다. 왜냐하면 이러한 방식은 일반적이고, Controller 계층과 Service 계층의 분리가 되기 때문입니다. 하지만 뭔가 잘 못 된 것 같습니다. 가독성이 떨어지고 이해하기 어려운 코드입니다.
 
-어떻게 하면 코드를 줄이면서 동시에 보기 좋게 만들 수 있을까? 고민하던 찰나, Controller 계층에서 DTO을 그대로 Service 계층으로 넘겨준다면? 하는 생각으로 코드를 다시 작성했습니다.
+어떻게 하면 코드를 줄이면서 동시에 보기 좋게 만들 수 있을까? 고민했습니다.
+
+---
+## 과정
+
+Controller 계층에서 DTO을 그대로 Service 계층으로 넘겨준다면? 
+하는 생각으로 코드를 다시 작성했습니다.
 
 ```java title:Controller
 return memberMapper.MEMBER_GET(memberService.updateMember(email, request));
@@ -58,7 +58,8 @@ Service 계층은 비즈니스 로직을 담당한다.
 Controller 계층은 HTTP 요청을 처리하고 응답을 생성한다.
 따라서 서로 독립적으로 존재하고 서로에게 의존성을 갖지 않도록 설계하는 것이 옳습니다.
 
-### 결과
+---
+## 결과
 
 ```java title:controller
 @PutMapping("/{email}")  
