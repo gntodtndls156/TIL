@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c5841ad3bdf2d1b",
+        "id": "21a6671a633fa8aa",
         "type": "tabs",
         "children": [
           {
-            "id": "a383cc32dca49d4f",
+            "id": "308db6c4047cf588",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#개발일지  ",
+                "query": "tag:#NotCompleted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,23 +160,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a383cc32dca49d4f",
+  "active": "308db6c4047cf588",
   "lastOpenFiles": [
+    "Java/Spring boot/Security + JWT Note.md",
+    "Java/Spring boot/(MapStruct) Multiple Parameter.md",
+    "Java/Spring boot/도메인형 디렉터리 구조에 대하여.md",
     "Java/Spring boot/Junit5/(Feedback) assert Equals Method.md",
     "Java/Spring boot/Junit5/(Feedback) Controller 테스트.md",
+    "template/Develop document.md",
+    "template/Develop feedback document.md",
+    "template",
     "Java/Spring boot/Controller와 Service 계층 분리 (with Mapstruct).md",
-    "Java/Spring boot/Security + JWT Note.md",
     "Java/Spring boot/Python file 실행 방법.md",
-    "Java/Spring boot/MapStruct 심화편.md",
-    "Java/Spring boot/도메인형 디렉터리 구조에 대하여.md",
+    "Home.md",
+    "React Native/리팩토링 기록.md",
+    "Java/ForEach or Stream.md",
+    "Java/OutputStream과 InputStream.md",
     "Java/Spring boot/image/Pasted image 20231202223703.png",
     "Java/Spring boot/image/Pasted image 20231120172516.png",
     "Java/Spring boot/image/Pasted image 20231120172739.png",
-    "Home.md",
     "Artificial Intelligence/Current Topics of Information Technology/1155 assignment_1.md",
-    "React Native/리팩토링 기록.md",
-    "Java/OutputStream과 InputStream.md",
-    "Java/ForEach or Stream.md",
     "Algorithm/BackJoon/10951 A+B - 4.md",
     "Algorithm/BackJoon",
     "Diary/2023-10-08.md",
@@ -204,8 +208,6 @@
     "(프로젝트) PayPos/완료한 페이지.md",
     "(프로젝트) PayPos/페이지 순서.canvas",
     "Diary/image",
-    "(프로젝트) PayPos/페이지 순서 - 설명/대기현황.md",
-    "(프로젝트) PayPos/페이지 순서 - 설명/매장",
-    "(프로젝트) PayPos/페이지 순서 - 설명/매장 선택.md"
+    "(프로젝트) PayPos/페이지 순서 - 설명/대기현황.md"
   ]
 }
