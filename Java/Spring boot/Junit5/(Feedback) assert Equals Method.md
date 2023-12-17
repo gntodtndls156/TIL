@@ -1,6 +1,6 @@
 #개발일지 #SpringBoot #Java
 
-## Before
+## <mark style="background: #FFB8EBA6;">Before</mark>
 
 ```java
 MvcResult result = mvc.perform(get("/api/member/"))
@@ -19,7 +19,7 @@ assertEquals(1, members.size());
 
 바로 <mark style="background: #FFB86CA6;">Assert 메시지를 추가하는 것</mark>입니다.
 
-## After
+## <mark style="background: #ADCCFFA6;">After</mark>
 
 ![[Pasted image 20231120172516.png]]
 

@@ -1,6 +1,6 @@
 #개발일지 #SpringBoot 
 
-## Background
+## <mark style="background: #ABF7F7A6;">Background</mark>
 
 Controller의 Update 메소드에서 이런 코드가 있었습니다.
 

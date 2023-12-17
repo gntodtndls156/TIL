@@ -1,5 +1,6 @@
 #개발일지 #SpringBoot 
-## Background 
+
+## <mark style="background: #ABF7F7A6;">Background</mark> 
 
 Mapstruct 라이브러리를 통해 DTO와 Entity 등과 같은 비슷한 구조를 가진 객체 간의 Mapping 하고 있었습니다. DTO에서 Entity로 변환하기 위해 값을 교체하거나 없는 값을 대입하는 일이 있을 때 파라미터 여러 개를 둬서 작업하기도 했습니다.
 

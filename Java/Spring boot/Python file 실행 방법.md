@@ -1,6 +1,6 @@
 #개발일지 #SpringBoot #Java 
 
-## Background
+## <mark style="background: #ABF7F7A6;">Background</mark>
 
 스프링부트 프로젝트 진행하기 전, OpenAI API와 연동하기 위해 불가피하게 파이썬 사용하게 되었습니다. 자바에서 정보를 가공할 바에 파이썬 내부함수를 통해 빠르게 가공하고 스프링부트 프로젝트에 전달하는 것이 **작업 효율에 좋기** 때문입니다.
 
