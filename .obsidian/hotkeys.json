@@ -7,5 +7,23 @@
       ],
       "key": "L"
     }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "highlightr-plugin:Blue": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }
