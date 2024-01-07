@@ -7,9 +7,12 @@
   "tag-wrangler",
   "table-editor-obsidian",
   "obsidian-kanban",
-  "homepage",
   "code-styler",
   "highlightr-plugin",
   "obsidian-outliner",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "url-into-selection",
+  "obsidian-link-embed",
+  "global-search-and-replace",
+  "templater-obsidian"
 ]

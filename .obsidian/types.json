@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "지도위원": "text"
+    "지도위원": "text",
+    "Not completed": "checkbox",
+    "Completed": "checkbox"
   }
 }
